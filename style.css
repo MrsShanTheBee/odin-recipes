@@ -2,3 +2,11 @@ body {
     background-color: aquamarine;
     font-family: Georgia, sans-serif;
 }
+button {
+    background-color: blueviolet;
+    font-size: 20px;
+    text-emphasis-color: white;
+}
+a {
+    color:white;
+}
